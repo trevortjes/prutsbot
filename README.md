@@ -3,7 +3,7 @@
 Commands
 
 [Reactions]
-prutsbad          Jij moet niet zeuren!
+prutsbad          Jij moet niet zeuren!<br>
 ghghgh            STOOOOP!
 klopklop          Ik moest kloppen want de bel doet het niet
 ohhhh             Dat is lelijk!
