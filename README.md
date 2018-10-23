@@ -1,6 +1,8 @@
 # prutsbot
 
 <h1>Commands</h1><br>
+<i>Prutsbot has no prefix!</i>
+
 
 <b>[Reactions]</b><br>
 prutsbad =         Jij moet niet zeuren!<br>
