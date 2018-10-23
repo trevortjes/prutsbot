@@ -1,6 +1,6 @@
 # prutsbot
 
-<h1>Commands</h1><br>
+<h1>Commands</h1>
 <i>Prutsbot has no prefix!</i><br><br>
 
 
