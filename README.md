@@ -3,7 +3,7 @@
 <h1>Commands</h1><br>
 
 [Reactions]<br>
-prutsbad          Jij moet niet zeuren!<br>
+prutsbad <t>         Jij moet niet zeuren!<br>
 ghghgh            STOOOOP!<br>
 klopklop          Ik moest kloppen want de bel doet het niet<br>
 ohhhh             Dat is lelijk!<br>
