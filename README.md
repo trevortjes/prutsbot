@@ -10,7 +10,7 @@ ohhhh =          Dat is lelijk!<br>
 toch =            niewaaar!<br>
 we vliegen erin =  PATAT!<br>
 <br>
-<br>[Tools]</b><br>
+<b>[Tools]</b><br>
 nummer =           Counts up from 0 with every call of the command<br>
 roll =             Rolls a dice with 3 sides<br>
 
